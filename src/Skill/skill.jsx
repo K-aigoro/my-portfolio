@@ -1,7 +1,7 @@
 import React from "react";
 import "./skill.css";
 // import git from '../../assets/png-transparent-git.png';
-import web from '../../assets/web.png';
+// import web from '../../assets/web.png';
 // import img from './assets/removebg.png';
 
 

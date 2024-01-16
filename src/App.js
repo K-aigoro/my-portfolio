@@ -1,5 +1,6 @@
 import Intro from "./components/intro/Intro";
 import Navbar from "./components/NavBar";
+import Skill from "./Skill/skill";
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Navbar/>
       <Intro/>
+      <Skill/>
     </div>
   )
 }
